@@ -1,0 +1,12 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+.Menu .best {
+    color: purple;
+}
+
+h1 {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;
+}
